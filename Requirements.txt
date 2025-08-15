@@ -1,1 +1,4 @@
-requests
+pandas
+streamlit
+deepgram-sdk
+openpyxl
